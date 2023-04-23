@@ -1,0 +1,16 @@
+Package: pagaR
+Type: Package
+Title: Run and plot PAGA on R
+Version: 0.1.0
+Author: Wei Cao
+Maintainer: Wei Cao <caow@mail.sustech.edu.cn>
+Description: Run and plot PAGA on R, which is writen by python
+    I potting it with model v1.2.
+License: MIT
+Encoding: UTF-8
+LazyData: FALSE
+RoxygenNote: 7.2.3
+Collate: 
+    'generics.R'
+    'paga.R'
+    'visualization.R'
