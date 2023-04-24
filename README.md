@@ -11,8 +11,9 @@ devtools::install_github("CaoWei-UM/pagaR")
 
 How to use:
 ```
+library(Seurat)
 library(pagaR)
-load(pbmc)
+load(pbmc) #pbmc is a seurat object
 CalculatePAGA(pbmc,group.by='celltype')
 PlotPAGA(pbmc,group.by='celltype')
 ```
