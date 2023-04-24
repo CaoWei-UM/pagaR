@@ -1,5 +1,5 @@
 # pagaR
-a R version PAGA
+a R version PAGA (partition-based graph abstraction)
 
 origin code:
 * https://github.com/theislab/paga
